@@ -35,5 +35,6 @@ init --> Sends a starter message
   -Made using Python(Discord.py library,matplotlib,os,aiohttp,io)
   
 Demo URLS:
-https://discord.com/oauth2/authorize?client_id=1563878649248358420&permissions=117760&integration_type=0&scope=bot
-https://discord.gg/MQssTRJb2w
+https://discord.com/oauth2/authorize?client_id=1563878649248358420&permissions=117760&integration_type=0&scope=bot  -->Invite to your own server
+https://discord.gg/MQssTRJb2w --> Test Server
+
