@@ -7,6 +7,10 @@ An open-source discord bot for tracking information regarding GitHub repositorie
 
 # Commands
 
+init --> Sends a starter message
+
+!help --> Displays list of all commands available
+
 !track --> Tracks the GitHub repositories, provides information about it github repository url needs to be give in the following format:
   !track <repository_url>
 
